@@ -1,2 +1,2 @@
-# BSc-Computer-AthabascaU
-Computer Science BSc Athabasca
+# BSc-Computer-Carleton U
+Computer Science BSc Carleton U
